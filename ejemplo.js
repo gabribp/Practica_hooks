@@ -1,5 +1,5 @@
 /**
- * Prueba de API
+ * Prueba de API probando
  * @module API
  * @author Profesor <mi.email@iescastelar.com>
  */
