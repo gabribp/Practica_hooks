@@ -7,7 +7,7 @@
 /** API Class description */
 class MiClase {
     /**
-     * Constructor de clase - Gabriel estuvo aquí.
+     * Constructor de clase
      * @param {Objeto} config ejemplo de descripción
      */
      constructor( config ){
@@ -22,7 +22,7 @@ class MiClase {
       * @param {cadena} dice hola mundo
       */
       holaMundo( cadena ){
-        console.log( "Hola." + cadena);
+        console.log( "Hola" + cadena);
       }
 }
 module.exports = MiClase;
